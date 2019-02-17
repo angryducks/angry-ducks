@@ -1,6 +1,6 @@
 # angry-duckhacks
 
-[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)]()
+[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/angryducks/angry-ducks/blob/master/LICENSE)
 
 <img src="https://i.loli.net/2019/02/17/5c69796b1d571.png" width="200" hegiht="800"/>
 <br>
@@ -9,7 +9,7 @@
 
 如果您觉得内容不错，请支持本项目，欢迎给予Star.
 
-[English](https://github.com/nature1995/angry-duckhacks/blob/master/README.md) | 中文
+[English](https://github.com/angryducks/angry-ducks/blob/master/README.md) | 中文
 
 ## 简介
 
@@ -77,4 +77,4 @@ python main.py 0.0.0.0:5000
 * [**曾宇晨**](https://github.com/zlaomin)
 
 ## License  
-This software is licensed under the GNU General Public License v3.0 License. For more information, read the file [LICENSE](https://github.com/nature1995/image-classify-django-server/blob/master/LICENSE).
+This software is licensed under the GNU General Public License v3.0 License. For more information, read the file [LICENSE](https://github.com/angryducks/angry-ducks/blob/master/LICENSE).
