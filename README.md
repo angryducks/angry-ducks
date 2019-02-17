@@ -1,6 +1,6 @@
 # angry-duckhacks
 
-[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)]()
+[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/angryducks/angry-ducks/blob/master/README.md)
 
 <img src="https://i.loli.net/2019/02/17/5c69796b1d571.png" width="200" hegiht="800"/>
 <br>
@@ -9,7 +9,7 @@
 
 If you appreciate the content, support projects, give star!
 
-English| [中文](https://github.com/nature1995/angry-duckhacks/blob/master/README.cn.md)
+English| [中文](https://github.com/angryducks/angry-ducks/blob/master/README.cn.md)
 
 ## Introduction  
 Nowadays, the society has become more and more extensive in international culture, and English has become a bridge for communication between people all over the world. But even if it is a language, people who are not native speakers of English may have different understandings of the language. The result is a bias in emotional understanding. 
@@ -76,4 +76,4 @@ python main.py 0.0.0.0:5000
 * [**Yuchen Zeng**](https://github.com/zlaomin)
 
 ## License  
-This software is licensed under the GNU General Public License v3.0 License. For more information, read the file [LICENSE](https://github.com/nature1995/image-classify-django-server/blob/master/LICENSE).
+This software is licensed under the GNU General Public License v3.0 License. For more information, read the file [LICENSE](https://github.com/angryducks/angry-ducks/blob/master/README.md).
