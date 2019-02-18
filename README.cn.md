@@ -2,7 +2,9 @@
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/angryducks/angry-ducks/blob/master/LICENSE)
 
-<img src="https://i.loli.net/2019/02/17/5c69796b1d571.png" width="200" hegiht="800"/>
+<div align="center">
+  <img src="https://i.loli.net/2019/02/19/5c6afe1b0be35.png" width="200" hegiht="200"/>
+</div>
 <br>
 
 **DuckHacks 2019 at Stevens Institute of Technology** 
@@ -33,7 +35,10 @@
 - [x]在Google Cloud Server上运行Angry-Ducks
 
 ## Demo
-http://35.237.242.184:5000
+<div align="center">
+<img src="https://i.loli.net/2019/02/19/5c6afef001185.png" height="500"/>
+<img src="https://i.loli.net/2019/02/19/5c6aff8ace255.png" height="500"/>
+</div>
 
 ## 运行:  
 1. 克隆仓库:
@@ -71,10 +76,15 @@ python main.py 0.0.0.0:5000
 ```
 
 ## 作者  
-* [**龚子然**](http://ranxiaolang.com)
-* [**张方舟**](https://github.com/zfz)
-* [**张子栋**](https://github.com/zzdqqqq)
-* [**曾宇晨**](https://github.com/zlaomin)
+1. [nature1995](https://github.com/nature1995) | Ziran Gong
+2. [zfz](https://github.com/zfz) | Fangzhou Zhang
+3. [zzdqqqq](https://github.com/zzdqqqq) | Zidong Zhang
+4. [zlaomin](https://github.com/zlaomin) | Yuchen Zeng
+
+## 组织
+
+* [Angry Ducks](https://github.com/angryducks): 门前大桥下, 游过一群鸭, 快来, 快来数一数, 二四六七八。
+> **欢迎任何人参与和完善：一个人可以走的很快，但是一群人却可以走的更远。**
 
 ## License  
-This software is licensed under the GNU General Public License v3.0 License. For more information, read the file [LICENSE](https://github.com/angryducks/angry-ducks/blob/master/LICENSE).
+本软件根据GNU通用公共许可证v3.0许可证授权。 有关更多信息，请阅读该文件[LICENSE](https://github.com/angryducks/angry-ducks/blob/master/LICENSE).
