@@ -1,11 +1,11 @@
 # angry-duckhacks
 
-[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/angryducks/angry-ducks/blob/master/LICENSE)
-
 <div align="center">
-  <img src="https://i.loli.net/2019/02/19/5c6afe1b0be35.png" width="200" hegiht="200"/>
+    <a href=""><img src="https://i.loli.net/2019/02/19/5c6afe1b0be35.png" width="200" hegiht="200"/></a>
 </div>
 <br>
+
+[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/angryducks/angry-ducks/blob/master/LICENSE)
 
 **DuckHacks 2019 at Stevens Institute of Technology** 
 
