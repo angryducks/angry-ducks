@@ -1,4 +1,4 @@
-# angry-duckhacks
+# angry-ducks
 
 <div align="center">
     <a href=""><img src="https://i.loli.net/2019/02/19/5c6afe1b0be35.png" width="200" hegiht="200"/></a>
