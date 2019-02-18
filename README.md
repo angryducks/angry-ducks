@@ -1,8 +1,9 @@
 # angry-duckhacks
 
 [![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/angryducks/angry-ducks/blob/master/LICENSE)
-
-<img src="https://i.loli.net/2019/02/17/5c69796b1d571.png" width="200" hegiht="800"/>
+<div align="center">
+  <img src="https://i.loli.net/2019/02/19/5c6afe1b0be35.png" width="200" hegiht="200"/>
+</div>
 <br>
 
 **DuckHacks 2019 at Stevens Institute of Technology** 
@@ -20,7 +21,10 @@ If our program can record conversations in real time, we can analyze the emotion
 This is a lightweight web service access program that allows you to directly translate text into words and record them. Emotional analysis can be performed while recording.
 
 ## Architecture。
-<img src="https://i.loli.net/2019/02/17/5c697080ba3cd.png" width="400" hegiht="800" align=center />
+
+<div align="center">
+<img src="https://i.loli.net/2019/02/17/5c697080ba3cd.png" width="400" hegiht="800"/>
+</div>
 
 ## Features  
 - [x] Create Flask web server
@@ -32,7 +36,10 @@ This is a lightweight web service access program that allows you to directly tra
 - [x] Run Angry-Ducks on the Google Cloud Server
 
 ## Demo
-http://35.237.242.184:5000
+<div align="center">
+<img src="https://i.loli.net/2019/02/19/5c6afef001185.png" height="500"/>
+ <img src="https://i.loli.net/2019/02/19/5c6aff8ace255.png" height="500"/>
+</div>
 
 ## Run the code:  
 1. Clone this repository:
