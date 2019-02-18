@@ -77,10 +77,15 @@ python main.py 0.0.0.0:5000
 ```
 
 ## Author  
-* [**Ziran Gong**](http://ranxiaolang.com)
-* [**Fangzhou Zhang**](https://github.com/zfz)
-* [**Zidong Zhang**](https://github.com/zzdqqqq)
-* [**Yuchen Zeng**](https://github.com/zlaomin)
+1. [nature1995](https://github.com/nature1995) | Ziran Gong
+2. [zfz](https://github.com/zfz) | Fangzhou Zhang
+3. [zzdqqqq](https://github.com/zzdqqqq) | Zidong Zhang
+4. [zlaomin](https://github.com/zlaomin) | Yuchen Zeng
+
+## Organization 
+
+* [Angry Ducks](https://github.com/angryducks): 门前大桥下, 游过一群鸭, 快来, 快来数一数, 二四六七八。
+> **Anyone is welcome to participate and improve: one can go very fast, but a group of people can go further.**
 
 ## License  
 This software is licensed under the GNU General Public License v3.0 License. For more information, read the file [LICENSE](https://github.com/angryducks/angry-ducks/blob/master/LICENSE).
