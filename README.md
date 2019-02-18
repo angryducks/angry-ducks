@@ -2,9 +2,10 @@
 
 <div align="center">
     <a href=""><img src="https://i.loli.net/2019/02/19/5c6afe1b0be35.png" width="200" hegiht="200"/></a>
-    <a href="https://github.com/angryducks/angry-ducks/blob/master/LICENSE"> <img src="https://img.shields.io/badge/license-GPL--3.0-green.svg"></a>
 </div>
 <br>
+
+[![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/angryducks/angry-ducks/blob/master/LICENSE)
 
 **DuckHacks 2019 at Stevens Institute of Technology** 
 
