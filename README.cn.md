@@ -26,13 +26,13 @@
 <img src="https://i.loli.net/2019/02/17/5c697080ba3cd.png" width="400" hegiht="800" align=center />
 
 ## 特点  
-- [x]创建Flask Web服务器 
-- [X]构建fontend和后端
-- [x]添加功能：实时语音到文本
-- [x]添加功能：识别情绪
-- [x]添加功能：录制语音文本
-- [x]进行实时语音，文本，情感识别。
-- [x]在Google Cloud Server上运行Angry-Ducks
+- [x] 创建Flask Web服务器 
+- [X] 构建fontend和后端
+- [x] 添加功能：实时语音到文本
+- [x] 添加功能：识别情绪
+- [x] 添加功能：录制语音文本
+- [x] 进行实时语音，文本，情感识别。
+- [x] 在Google Cloud Server上运行Angry-Ducks
 
 ## Demo
 <div align="center">
